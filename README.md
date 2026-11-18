@@ -28,10 +28,10 @@
 # 🚀 Featured Projects:
 | Project | What it does | Tools | Link |
 |---------|--------------|-------|------|
-| 🛒 **Sales Dashboard** | Interactive dashboard tracking revenue, profit and top products | Power BI, Excel | [View](https://github.com/YOUR-USERNAME/sales-dashboard) |
+| 🛒 **Sales Dashboard** | Interactive dashboard tracking revenue, profit and top products | Excel | [View](https://github.com/YOUR-USERNAME/sales-dashboard) |
 | 🧹 **Data Cleaning Project** | Cleaned 50K+ messy records and documented every step | Python, Pandas | [View](https://github.com/YOUR-USERNAME/data-cleaning) |
 | 🗄️ **SQL Business Analysis** | 30+ queries answering real business questions with joins and window functions | MySQL | [View](https://github.com/YOUR-USERNAME/sql-analysis) |
-| 📈 **EDA on a Public Dataset** | Exploratory analysis with insights and charts | Python, Seaborn | [View](https://github.com/YOUR-USERNAME/eda-project) |
+| 📈 **EDA on a Public Dataset** | Exploratory analysis with insights and charts | Python, Pandas, Matplotlib, Seaborn | [View](https://github.com/YOUR-USERNAME/eda-project) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anush-surve&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
