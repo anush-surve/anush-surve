@@ -29,7 +29,7 @@
 | Project | What it does | Tools | Link |
 |---------|--------------|-------|------|
 | 🛒 **Sales Dashboard** | Interactive dashboard tracking revenue, profit and top products | Excel | [View](https://github.com/YOUR-USERNAME/sales-dashboard) |
-| 🧹 **Data Cleaning Project** | Cleaned 50K+ messy records and documented every step | Python, Pandas | [View](https://github.com/YOUR-USERNAME/data-cleaning) |
+| 🧹 **Data Cleaning Project** | Cleaned messy records, performed analysis and documented every step | Python( Pandas, Seaborn, Matplotlib, NumPy) | [View](https://github.com/anush-surve/Data-Cleaning-Analysis) |
 | 🗄️ **SQL Business Analysis** | 30+ queries answering real business questions with joins and window functions | MySQL | [View](https://github.com/YOUR-USERNAME/sql-analysis) |
 | 📈 **EDA on a Public Dataset** | Exploratory analysis with insights and charts | Python, Pandas, Matplotlib, Seaborn | [View](https://github.com/anush-surve/Supermarket_Sales_Analysis) |
 
